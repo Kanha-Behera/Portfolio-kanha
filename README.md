@@ -16,6 +16,9 @@ This project showcases my skills, projects, and contact information in a clean a
 
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/5561644f-a37e-496b-ac02-7885b74389e8" />
 
+<img width="1366" height="768" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/8456e5c7-5861-4017-bb79-28884fb4096f" />
+
+
 <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/67e81a72-f9cc-492d-aa09-104cbee9959d" />
 
 
@@ -29,7 +32,7 @@ This project showcases my skills, projects, and contact information in a clean a
 
 ## Tech Stack
 
-- HTML
+- HTML 
 - CSS
 - JavaScript
 
